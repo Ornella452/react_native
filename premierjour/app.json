@@ -1,0 +1,12 @@
+{
+  "name": "premierjour",
+  "displayName": "premierjour",
+  "expo": {
+    "name": "premierjour",
+    "slug": "premierjour",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

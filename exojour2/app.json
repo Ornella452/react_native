@@ -1,0 +1,12 @@
+{
+  "name": "exojour2",
+  "displayName": "exojour2",
+  "expo": {
+    "name": "exojour2",
+    "slug": "exojour2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
